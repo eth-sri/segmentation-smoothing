@@ -1,0 +1,6 @@
+[submodule "HRNet-Semantic-Segmentation"]
+	path = code/HRNet-Semantic-Segmentation
+	url = https://github.com/HRNet/HRNet-Semantic-Segmentation.git
+[submodule "Pointnet_Pointnet2_pytorch"]
+	path = code/Pointnet_Pointnet2_pytorch
+	url = https://github.com/yanx27/Pointnet_Pointnet2_pytorch.git
